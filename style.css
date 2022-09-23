@@ -72,7 +72,7 @@
 .modal__close{
   text-decoration: none;
   color: #fff;
-  background-color: #F26250;
+  background-color: #1075BB;
   padding: 1em 3em;
   border: 1px solid ;
   border-radius: 6px;
@@ -81,7 +81,7 @@
   transition: background-color .3s;
 }
 .modal__close:hover{
-  color: #F26250;
+  color: #1075BB;
   background-color: #fff;
 }
 
